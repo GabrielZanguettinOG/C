@@ -1,0 +1,11 @@
+﻿  ProvaCaio.cpp
+C:\Users\xxxga\source\repos\ProvaCaio\ProvaCaio\ProvaCaio.cpp(107,13): warning C4477: 'scanf_s': a cadeia de formato '%s' requer um argumento do tipo 'unsigned int', mas um argumento variadic 2 tem o tipo 'size_t'
+  C:\Users\xxxga\source\repos\ProvaCaio\ProvaCaio\ProvaCaio.cpp(107,13):
+  esse argumento é usado como um tamanho do buffer
+  
+C:\Users\xxxga\source\repos\ProvaCaio\ProvaCaio\ProvaCaio.cpp(117,13): warning C4477: 'scanf_s': a cadeia de formato '%s' requer um argumento do tipo 'unsigned int', mas um argumento variadic 2 tem o tipo 'size_t'
+  C:\Users\xxxga\source\repos\ProvaCaio\ProvaCaio\ProvaCaio.cpp(117,13):
+  esse argumento é usado como um tamanho do buffer
+  
+C:\Users\xxxga\source\repos\ProvaCaio\ProvaCaio\ProvaCaio.cpp(48,1): warning C4715: 'adicionar_assistidas': nem todos os caminhos de controle retornam um valor
+  ProvaCaio.vcxproj -> C:\Users\xxxga\source\repos\ProvaCaio\x64\Debug\ProvaCaio.exe
